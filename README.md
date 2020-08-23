@@ -12,3 +12,5 @@ This repository contains code written for the Data Science certificate program o
 7. Linear Regression
 8. Machine Learning
 9. Capstone
+
+The capstone course at the end of the sequence is a hands-on application of machine learning to the MovieLens dataset. The goal is to build a recommendation system based on 10 million observations of user-movie ratings that achieves minimal error on predictions. This explores data import, cleaning, and a variety of machine learning algorithms, though simple linear and ridge regression are predominant. 
