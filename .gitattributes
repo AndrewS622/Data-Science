@@ -1,1 +1,3 @@
-    *.html linguist-language=R
+   *.html linguist-language=R
+   *.R linguist-detectable=true 
+   *.html linguist-detectable=false
